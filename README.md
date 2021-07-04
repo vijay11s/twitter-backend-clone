@@ -1,4 +1,7 @@
-![example workflow](https://github.com/vijay11s/twitter-backend-clone/actions/workflows/nodejs.yml/badge.svg)
+# Twitter Clone Backend
+Backend API for Twitter clone using Nest Framework (NodeJS + Typescript + PostgreSQL) 
+
+![NodeJS Workflow](https://github.com/vijay11s/twitter-backend-clone/actions/workflows/nodejs.yml/badge.svg)
 
 
 ## Installation
